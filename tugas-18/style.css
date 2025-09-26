@@ -1,0 +1,20 @@
+body{
+    background-image: url(Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.container{
+    margin-top: 80px;
+    margin-left: 40px;
+    
+}
+.tombol button{
+    border: none;
+    background-color: darkgreen;
+    color: white;
+    padding: 17px;
+    margin-left: 40px;
+    
+}
+    
