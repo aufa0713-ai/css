@@ -1,0 +1,23 @@
+.hero{
+    background-color: red;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 5%;
+}
+
+.kolom-1{
+    background-color: green;
+}
+
+.kolom-2{
+    background-color: blueviolet;
+}
+
+.button{
+    background-color: #D760C7;
+    color: white;
+    padding: 10px  20px;
+    border-radius: 5px;
+}

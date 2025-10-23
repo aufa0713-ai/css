@@ -1,0 +1,50 @@
+.body {
+  background-color: #d9d9d9;
+}
+
+.parent {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 10%;
+  margin-left: 10%;
+}
+.container h1 {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+.container-two {
+  width: 500px;
+  height: 500px;
+  background-color: rgb(0, 255, 179);
+  background-image: url("./image.png");
+  background-size: cover;
+  background-position: center;
+  border-radius: 30px;
+}
+
+.button button {
+  background-color: red;
+  color: white;
+  padding: 10px 15px;
+}
+
+.button {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+  font-weight: bold;
+}
+
+.button2 {
+  color: black;
+}

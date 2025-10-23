@@ -1,0 +1,153 @@
+.container{
+    background-color: #D9D9D9;
+    width: 1,411px;
+    height: 50px;
+    ;
+}
+
+.hero.section{
+    background-color: #9F9F9F;
+    width: 1,411px;
+    height: 30px;
+}
+
+.tombol{
+    background-color: #EBEAEA;
+    width: 1,410px;
+    height: 200px;
+    
+}
+
+.footer{
+    padding-top: 3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.klik{
+    background-color: #EBEAEA;
+    width: 270px;
+    height: 310px;
+   
+}
+
+.home{
+    background-color: #EBEAEA;
+    width: 270px;
+    height: 310px;
+    
+}
+
+.akun{
+    background-color: #EBEAEA;
+    width: 270px;
+    height: 310px;
+}
+
+.kartu{
+    background-color: #EBEAEA;
+    width: 270px;
+    height: 310px;
+
+}
+
+.uno{
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.doss{
+    background-color: #EBEAEA;
+    width: 600px;
+    height: 300px;
+}
+
+.tress{
+    background-color: #EBEAEA;
+    width: 600px;
+    height: 300px;
+}
+
+.box{
+    padding-top: 10px;
+}
+
+.ball {
+    background-color: #EBEAEA;
+    width: 1,411px;
+    height: 250px;
+    
+}
+
+.box2{
+    padding-top: 10px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.NBA{
+    background-color: #EBEAEA;
+    width: 1,247px;
+    height: 200px;
+
+}
+
+.botol{
+    margin-top: 10px;
+    background-color: #EBEAEA;
+    /* width: 1,114px; */
+    /* height: 353px; */
+
+}
+.botol2{
+    margin-top: 10px;
+    background-color: #EBEAEA;
+    /* width: 1,114px; */
+    /* height: 353px; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.aqua{
+    background-color: #C3BFBF;
+    width: 200px;
+    height: 180px;
+    
+}
+
+.lemineral{
+    background-color: #C3BFBF;
+    width: 200px;
+    height: 180px;
+}
+
+.prestine{
+    background-color: #C3BFBF;
+    width: 200px;
+    height: 180px;
+}
+
+.vit{
+    background-color: #C3BFBF;
+    width: 200px;
+    height: 180px;
+}
+
+.out{
+    padding-top: 10px;
+
+}
+
+.in{
+    background-color: #D9D9D9;
+    width: 1,410px;
+    height: 90px;
+}

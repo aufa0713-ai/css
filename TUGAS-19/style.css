@@ -1,0 +1,61 @@
+h2{
+    color: darkcyan;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+h3{
+    color: red;
+    font-size: xx-large;
+}
+
+.kecil{
+    font-size: small;
+    color: grey;
+}
+
+.bawah{
+    text-decoration: underline;
+}
+
+.atas{
+    text-decoration: overline;
+}
+
+.coret{
+    text-decoration: line-through;
+}
+
+.kanan{
+    text-align: right;
+}
+
+.tengah{
+    text-align: center;
+}
+
+.capital{
+    text-transform: uppercase;
+}
+
+.kcil{
+    text-transform: lowercase;
+}
+
+.kata{
+    text-transform: capitalize;
+}
+
+.lebar{
+    letter-spacing: 2px;
+}
+
+.kta-lebar{
+    word-spacing: 5px;
+}
+
+hr{
+    border: 1px solid darkcyan;
+}

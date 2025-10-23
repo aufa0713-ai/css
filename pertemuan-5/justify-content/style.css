@@ -1,0 +1,53 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    background-color: darkgrey;
+
+    justify-content: space-between;
+
+}
+
+.container-two{
+    display: flex;
+    flex-direction: row;
+    background-color: darkgrey;
+
+    justify-content: space-around;
+
+}
+
+.container-tree{
+    display: flex;
+    flex-direction: row;
+    background-color: darkgrey;
+
+    justify-content: space-evenly;
+
+}
+
+.container-four{
+    display: flex;
+    flex-direction: row;
+    background-color: darkgrey;
+
+    justify-content: flex-end;
+
+}
+
+.container-five{
+    display: flex;
+    flex-direction: row;
+    background-color: darkgrey;
+
+    justify-content: center;
+
+}
+
+.container-six{
+    display: flex;
+    flex-direction: row;
+    background-color: darkgrey;
+
+    justify-content: flex-start;
+
+}

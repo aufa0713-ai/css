@@ -1,0 +1,104 @@
+body{
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+
+nav{
+    text-align: end;
+}
+#Home{
+    margin-top: 50px;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    
+}
+
+button{
+    background-color: #FF6464;
+    color: white;
+    width: 208px;
+    height: 40px;
+    
+}
+.container h1{
+    
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.box{
+    background-color: #EDF7FA;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.box1{
+    background-color: #FFFFFF;
+    color: black;
+   margin-right: 10px;
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 10px;
+    
+}
+
+.box2{
+    background-color: #FFFFFF;
+    color: black;
+   margin-right: 10px;
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 10px;
+}
+
+
+
+
+.kontak{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.kontak1{
+    
+    align-items: center;
+   
+
+}
+
+.room{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+   
+
+}
+
+.btn{
+    background-color: #142850;
+    color: white;
+    width: 62px;
+    height: 25px;
+    border-radius: 16px;
+}

@@ -1,0 +1,39 @@
+.container{
+   background-color: grey;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+
+.container2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+}
+
+.container3{
+    background-color: aqua;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.klm1{
+    background-color: brown;
+}
+
+.klm2{
+    background-color: chocolate;
+}
+
+@media (min-width: 391px) {
+    .container3{
+        background-color: rgb(212, 198, 198);
+        flex-direction: row;
+        justify-content: space-between;
+    }
+}

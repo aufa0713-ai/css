@@ -1,0 +1,14 @@
+.container{
+    background-color: darkgray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.kolom-1{
+    background-color: darkgreen;
+}
+
+.kolom-2{
+    background-color: darkblue;
+}

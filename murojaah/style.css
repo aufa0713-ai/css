@@ -1,0 +1,39 @@
+.parent {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.judul {
+  font-size: 20px;
+}
+
+.box input {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 200px;
+}
+
+.btn-submit {
+  background-color: #515def;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 170px;
+  padding-right: 170px;
+  border-radius: 4px;
+  margin-top: 20px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  padding-left: 100px;
+}
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  padding-left: 100px;
+}

@@ -1,0 +1,29 @@
+text-base{
+    text-align: right;
+}
+
+.arab{
+    direction: rtl;
+    text-align: center;
+}
+
+.dec{
+    text-decoration: overline solid red;
+    text-transform: uppercase;
+}
+.space{
+    text-indent: 70px; 
+    letter-spacing: 1px;
+    line-height: 70px;
+    word-spacing: 20px;
+    white-space: break-spaces;
+
+}
+.overf{
+    /* background-color: chartreuse; */
+    width: 320px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-shadow: 1px 1px 1px rgb(160, 158, 158);
+}

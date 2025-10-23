@@ -1,0 +1,29 @@
+.container {
+  height: 100vh;
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: row;
+
+  align-items: flex-end;
+}
+
+.container-two {
+  height: 100vh;
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: row;
+
+  align-items: center;
+}
+
+.container-tree {
+  height: 100vh;
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: row;
+
+  align-items: flex-start;
+}
