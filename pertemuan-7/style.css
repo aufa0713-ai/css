@@ -1,0 +1,24 @@
+@font-face{
+    font-family: 'street breaker';
+    src: url(./asets/street_breaker/Street\ Breaker.otf);
+}
+
+
+p{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "street breaker", sans-serif;
+    font-style: oblique;
+}
+
+@font-face{
+    font-family: 'driftline';
+    src: url(./asets/driftline/Driftline.ttf);
+}
+
+.prg{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "driftline";
+    font-style: oblique;
+}
