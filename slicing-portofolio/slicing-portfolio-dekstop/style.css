@@ -178,7 +178,7 @@ footer {
   margin-top: 100px;
   padding: 50px;
   margin-left: 400px;
-  margin-right: 40  0px;
+  margin-right: 400px;
 }
 
 .copy {
@@ -187,4 +187,38 @@ footer {
   justify-content: center;
   margin-top: -30px;
   margin-bottom: 60px;
+}
+
+.text-design {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  /* background-color: red; */
+  width: 60%;
+  font-weight: normal !important;
+}
+
+.line {
+  background-color: #142850;
+  color: #142850;
+  width: 0.5px;
+  height: 20px;
+}
+
+.text-line {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  /* background-color: red; */
+  width: 60%;
+  font-weight: normal !important;
+}
+
+.garis {
+  background-color: #142850;
+  color: #142850;
+  width: 0.5px;
+  height: 20px;
 }
