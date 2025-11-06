@@ -64,6 +64,19 @@
 .isi-konten{
     margin-left: 20px;
 }
+
+.btn button{
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  position: fixed;
+  z-index: 9;
+  left: 0;
+  top: 550px;
+  margin-left: 1100px;
+}
+
 .footer{
     background-color: rgb(9, 81, 9);
     color: white;
@@ -71,4 +84,5 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 1000px;
 }
