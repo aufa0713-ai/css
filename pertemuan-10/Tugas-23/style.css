@@ -1,0 +1,78 @@
+* {
+  font-family: "Alfa Slab One", serif;
+}
+
+.logo {
+  background-color: #ff8e0c;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 100px;
+  align-items: center;
+  margin-top: -10px;
+  margin-left: -8px;
+  margin-right: -8px;
+}
+
+img {
+  padding: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+  padding: 20px;
+  font-family: "Inter", sans-serif;
+}
+
+#folio {
+  background-image: url(./Background\ Doodle.png);
+  height: 1024px;
+  margin-left: -10px;
+  margin-right: -10px;
+}
+
+.container h1 {
+  font-weight: 400;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 80px;
+}
+
+.book {
+  color: #ff8f0c;
+}
+
+button {
+  width: 170px;
+  height: 50px;
+  border-radius: 6px;
+  background-color: #ff8f0c;
+  color: white;
+  border: none;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+}
+
+
+
+.lamp{
+    font-size: 28px;
+    padding-left: 470px;
+}
+
+span{
+    color: #ff8e0c;
+}
+
+.gambar{
+    display: flex;
+    flex-direction: row;
+    margin-left: 300px;
+    margin-top: 70px;
+}

@@ -1,0 +1,17 @@
+.box-one{
+    /* width: 600px; */
+    height: 600px;
+    background-color: red;
+}
+
+.box-two{
+    width: 600px;
+    height: 600px;
+    background-color: blue;
+}
+
+.container{
+    display: flex;
+    /* width: 700px; */
+    /* background-color: blueviolet; */
+}
