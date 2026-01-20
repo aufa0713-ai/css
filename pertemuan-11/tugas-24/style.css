@@ -1,0 +1,21 @@
+body {
+  font-family: "Red Hat Display", sans-serif;
+}
+
+.logo{
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+    margin-top: 30px;    
+}
+
+img{
+    width: 35px;
+    height: 42.69444274902344px;
+    margin-top: 24px;
+    margin-right: 10px;
+}
+
+h1{
+    font-size: 35.33;
+}
