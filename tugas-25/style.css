@@ -1,0 +1,113 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.container {
+  background: #a61473;
+  background: linear-gradient(
+    90deg,
+    rgba(166, 20, 115, 1) 1%,
+    rgba(5, 242, 242, 1) 100%
+  );
+
+  background-color: red;
+  overflow: auto;
+  position: relative;
+}
+
+.hero-img {
+  float: right;
+}
+
+.box {
+  color: white;
+  position: absolute;
+  top: 20%;
+  margin-left: 150px;
+}
+
+.box h1 {
+  font-size: 45px;
+}
+
+.box p {
+  font-size: 12px;
+  font-weight: 300;
+  margin-top: 20px;
+}
+
+button {
+  width: 120px;
+  height: 40px;
+  border-radius: 10px;
+  border: none;
+  color: #a61473;
+  margin-top: 40px;
+}
+
+.container-two {
+    /* background-color: red; */
+}
+
+.container-two h1 {
+  color: white;
+  margin-top: 600px;
+  margin-left: 150px;
+}
+
+.one {
+  margin-left: 30px;
+  margin-top: 50px;
+  margin-bottom: 400px;
+}
+
+.card-one {
+    background-color: #FFFFFF4D;
+    /* width: 270px; */
+    height: 200px;
+    border-radius: 10px;
+    float: left;
+    margin-left: 10px;
+}
+
+.revi{
+    font-size: 12px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.set{
+    margin-top: 10px;
+}
+
+.nike{
+    font-size: 15px;
+}
+
+.dolar{
+    font-size: 15px;
+}
+
+.sold{
+    font-size: 13px;
+    margin-left: 30px;
+}
+
+.buy{
+    width: 80px;
+    height: 30px;
+    background-color: #A61473;
+    color: white;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.float{
+    float: left;
+}
+
