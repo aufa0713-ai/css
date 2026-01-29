@@ -1,0 +1,97 @@
+body {
+  font-family: "Ubuntu", sans-serif;
+  color: white;
+}
+
+.card {
+  border: 1px solid grey;
+  padding: 16px;
+  width: 335px;
+  height: 185px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  background: #042843;
+  background: linear-gradient(
+    127deg,
+    rgba(4, 40, 67, 1) 0%,
+    rgba(114, 110, 158, 1) 100%
+  );
+}
+
+.incard {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.outcard {
+  margin-top: 50px;
+}
+
+.card img {
+  width: 48px;
+  height: 48px;
+}
+
+.card--dark {
+  border: 1px solid grey;
+  padding: 16px;
+  width: 335px;
+  height: 185px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  background: #000000;
+  background: linear-gradient(
+    127deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(15, 184, 184, 1) 100%
+  );
+}
+
+.incard {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.outcard {
+  margin-top: 50px;
+}
+
+.card img {
+  width: 48px;
+  height: 48px;
+}
+
+.card--light {
+  border: 1px solid grey;
+  padding: 16px;
+  width: 335px;
+  height: 185px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  background: #064a7d;
+  background: linear-gradient(
+    127deg,
+    rgba(6, 74, 125, 1) 0%,
+    rgba(100, 36, 1, 1) 100%
+  );
+}
+
+.incard {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.outcard {
+  margin-top: 50px;
+}
+
+.card img {
+  width: 48px;
+  height: 48px;
+}

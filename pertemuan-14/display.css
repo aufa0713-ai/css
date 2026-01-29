@@ -1,0 +1,37 @@
+span {
+  background-color: aqua;
+}
+
+div {
+  background-color: brown;
+}
+
+a {
+  background-color: blue;
+  display: block;
+}
+
+h1 {
+  background-color: aquamarine;
+  display: inline;
+}
+
+p {
+  background-color: blueviolet;
+  display: inline-block;
+}
+
+.d-none {
+  background-color: aqua;
+  width: 400px;
+  height: 200px;
+  display: none;
+  /* menyembunyikan elemen dan ruang elemen */
+}
+
+.v-hidden {
+  background-color: burlywood;
+  width: 400px;
+  height: 200px;
+  
+}

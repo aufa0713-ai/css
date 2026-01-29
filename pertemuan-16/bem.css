@@ -1,0 +1,90 @@
+header{
+    background-color: whitesmoke;
+    padding: 20px;
+}
+
+.header__title{
+    font-size: 24px;
+}
+
+.header__description{
+    font-size: 14px;
+    opacity: 0,8;
+}
+
+/* !Modifier */
+
+.header--dark{
+    background-color: grey;
+    color: white;
+}
+
+.header__title--primary{
+    color: orange;
+}
+
+.navbar{
+    padding: 10px 20px;
+    background-color: whitesmoke;
+    border-bottom: 1px solid rgb(211, 210, 210);
+}
+
+.navbar__menu{
+    display: flex;
+    gap: 16px;
+    list-style: none;
+    padding: 0;
+}
+
+.navbar__item{
+    cursor: pointer;
+    color: orange;
+}
+
+.navbar--sticky{
+    position: sticky;
+    top: 0;
+}
+
+/* .......... */
+
+.card{
+    border: 1px solid grey;
+    padding: 16px;
+    border-radius: 8px;
+}
+
+.card__title{
+    font-size: 20px;
+    color: orangered;
+}
+
+.card__description{
+    font-size: 14px;
+    color: grey;
+}
+
+.card--dark{
+    background-color: black;
+    color: white;
+}
+
+.card__title--secondary{
+    color: whitesmoke;
+}
+
+/* .......... */
+
+.btn{
+    padding: 10px 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 6px;
+    background-color: cadetblue;
+}
+
+.btn__label{
+    font-size: 14px;
+    color: white;
+}
+

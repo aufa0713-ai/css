@@ -1,0 +1,83 @@
+/* ul{
+    list-style-type: none;
+} */
+
+ol {
+  list-style-type: upper-roman;
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(252, 244, 244);
+  width: 100px;
+  height: 150px;
+  gap: 20px;
+  list-style-type: none;
+}
+
+.box a {
+  text-decoration: none;
+  color: black;
+}
+
+.box li .white {
+  background-color: blue;
+  color: white;
+  padding-right: 50px;
+  padding-bottom: 10px;
+}
+
+.box li :hover {
+  background-color: blue;
+  padding-right: 50px;
+  padding-bottom: 10px;
+}
+
+.nav {
+  display: flex;
+  flex-direction: row;
+  background-color: blue;
+  gap: 20px;
+  height: 50px;
+  padding-top: 20px;
+  list-style-type: none;
+}
+
+.nav a {
+  color: white;
+  text-decoration: none;
+}
+
+.nav li :hover {
+  background-color: black;
+  padding: 10px;
+  padding-right: 50px;
+  padding-bottom: 10px;
+}
+
+.outside {
+  list-style-position: outside;
+}
+
+.outside li {
+  background-color: green;
+}
+
+.inside {
+  list-style-position: inside;
+}
+
+.inside li {
+  background-color: green;
+}
+
+.lorem li {
+  list-style-image: url(https://assets.ubuntu.com/v1/dbf71c80-favicon.ico?);
+}
+
+.ipsum li {
+  background-color: burlywood;
+  list-style: square inside
+  url(https://assets.ubuntu.com/v1/dbf71c80-favicon.ico?);
+}
